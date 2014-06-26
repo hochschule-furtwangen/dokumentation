@@ -1,4 +1,9 @@
-general
+FAQ
 =======
 
-Zentrale Dokumentation des GitHub Accounts der Hochschule Furtwangen.
+> Zentrale FAQ des GitHub Accounts der Hochschule Furtwangen.
+
+Bitte machen Sie sich zunächst mit unseren **[Guidelines](https://github.com/hochschule-furtwangen/faq/wiki)** vertraut, bevor Sie einen Projekt Antrag stellen.
+
+* [[Projekt beantragen|RequestCreateProject]]
+* [[Projekt beitreten|RequestJoinProject]]
