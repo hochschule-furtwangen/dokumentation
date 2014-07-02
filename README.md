@@ -1,9 +1,6 @@
 FAQ
 =======
 
-> Zentrale FAQ des GitHub Accounts der Hochschule Furtwangen.
+![GitHub Logo](https://raw.githubusercontent.com/hochschule-furtwangen/faq/master/wiki/assets/img/hfu_plus_github.png)
 
-Bitte machen Sie sich zunächst mit unseren **[Guidelines](https://github.com/hochschule-furtwangen/faq/wiki)** vertraut, bevor Sie einen Projekt Antrag stellen.
-
-* [Projekt beantragen](https://github.com/hochschule-furtwangen/faq/wiki/RequestCreateProject)
-* [Projekt beitreten](https://github.com/hochschule-furtwangen/faq/wiki/RequestJoinProject)
+## zur [offiziellen Dokumentation...](https://github.com/hochschule-furtwangen/faq/wiki)
